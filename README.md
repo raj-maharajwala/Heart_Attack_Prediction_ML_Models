@@ -2,12 +2,9 @@
 
 This is an interactive Machine Learning web application called "ML in Healthcare" developed using Python and Streamlit. The application utilizes various ML algorithms, including XGBoost, Random Forest, SVM, Logistic Regression, and Decision Trees, to create accurate models for predicting the risk of a user having a heart attack based on specific attributes such as age, sex, heart rate, blood sugar, and more.
 
-[![StreamLit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)]
+![StreamLit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)
 
-The application consists of two main sections:
-
-<h2>1) Model Building</h2>
-In this section, the application builds five different models using different ML algorithms. The models are:
+The application builds five different models using different ML algorithms. The models are:
 '''
 XGBoost
 Random Forest
@@ -15,6 +12,7 @@ Support Vector Machines (SVM)
 Logistic Regression
 Decision Trees
 '''
+
 Inside the "Notebook" folder of the ML in Healthcare application, there is a file named "Heart_Attack_Prediction_ML.ipynb". This notebook covers the modeling process for all five models, namely XGBoost, Random Forest, SVM, Logistic Regression, and Decision Trees.
 
 The notebook provides a comprehensive guide on how to train and evaluate these models using a heart attack dataset. Additionally, it includes the use of GridSearchCV and RandomizedSearchCV, which are techniques for hyperparameter tuning. These techniques help to find the best combination of hyperparameters for each model, optimizing their performance.
