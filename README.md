@@ -1,6 +1,6 @@
 # Hearth Attack Prediction using ML Models | Logistic Regression, SVM, Decision Trees, Random Forest, and XGBoost
 
-This is an interactive Machine Learning web application called "ML in Healthcare" developed using Python and Streamlit. The application utilizes various ML algorithms, including XGBoost, Random Forest, SVM, Logistic Regression, and Decision Trees, to create accurate models for predicting the risk of a user having a heart attack based on specific attributes such as age, sex, heart rate, blood sugar, and more.
+This is an interactive Machine Learning web application developed using Python and Streamlit. The application utilizes various ML algorithms, including XGBoost, Random Forest, SVM, Logistic Regression, and Decision Trees, to create accurate models for predicting the risk of a user having a heart attack based on specific attributes such as age, sex, heart rate, blood sugar, and more.
 
 ![StreamLit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)
 
