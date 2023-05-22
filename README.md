@@ -8,7 +8,7 @@ The application builds five different models using different ML algorithms. The 
 ```
 1. XGBoost
 2. Random Forest
-3. Support Vector Machines (SVM)
+3. Support Vector Machines(SVM)
 4. Logistic Regression
 5. Decision Trees
 ```
