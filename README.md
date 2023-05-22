@@ -42,6 +42,4 @@ This interactive dashboard provides a great way to explore and understand differ
 
 ![image](https://user-images.githubusercontent.com/72503778/123003157-6d93e780-d3d0-11eb-81fc-8dd6abe89efa.png)
 
-![image](https://user-images.githubusercontent.com/72503778/123003260-93b98780-d3d0-11eb-9ff0-bb27da6a105e.png)
-
 <hr>
