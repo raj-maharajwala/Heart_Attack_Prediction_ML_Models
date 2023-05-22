@@ -5,13 +5,13 @@ This is an interactive Machine Learning web application called "ML in Healthcare
 ![StreamLit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)
 
 The application builds five different models using different ML algorithms. The models are:
-"""
+```
 XGBoost
 Random Forest
 Support Vector Machines (SVM)
 Logistic Regression
 Decision Trees
-"""
+```
 
 Inside the "Notebook" folder of the ML in Healthcare application, there is a file named "Heart_Attack_Prediction_ML.ipynb". This notebook covers the modeling process for all five models, namely XGBoost, Random Forest, SVM, Logistic Regression, and Decision Trees.
 
